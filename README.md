@@ -21,7 +21,7 @@ Each main area will have its own repository with the following structure:
 - `tests`: Automated tests.
 - `examples`: Usage examples and demonstrations.
   
-Plus, the repository must contain a description and tags related to the team and the workin area.
+Plus, the repository must contain a description and tags related to the team and the working area. 
 
 ## Best Practices
 1. **Commits and Messages**:
