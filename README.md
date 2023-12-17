@@ -1,4 +1,3 @@
 # flying-robots-2024
 
-aaaaaaaaaaaa
-zzzzzzzzzzzz
+This is the Pequi Mecânico Flying Robots's Main Repository.  
