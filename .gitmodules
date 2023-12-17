@@ -1,3 +1,12 @@
 [submodule "perception/code"]
 	path = perception/code
 	url = git@github.com:Flying-Robots-2024/code.git
+[submodule "software/crazy-navigation"]
+	path = software/crazy-navigation
+	url = git@github.com:Flying-Robots-2024/crazy-navigation.git
+[submodule "crazy-navigation"]
+	path = crazy-navigation
+	url = git@github.com:Flying-Robots-2024/crazy-navigation.git
+[submodule "software/-f"]
+	path = software/-f
+	url = git@github.com:Flying-Robots-2024/crazy-navigation.git
