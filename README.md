@@ -20,6 +20,8 @@ Each main area will have its own repository with the following structure:
 - `src`: Source code.
 - `tests`: Automated tests.
 - `examples`: Usage examples and demonstrations.
+  
+Plus, the repository must contain a description and tags related to the team and the workin area.
 
 ## Best Practices
 1. **Commits and Messages**:
