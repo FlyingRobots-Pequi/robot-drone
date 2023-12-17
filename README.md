@@ -60,6 +60,6 @@ git submodule add <repository-url> <path-to-submodule>
 
 ```
 
-## Contato e Comunicação
-- Para dúvidas ou colaborações, entre em contato através de pequi.flyingrobots@gmail.com.
+## Contact and Communication
+- For inquiries or collaborations, please reach out to us at pequi.flyingrobots@gmail.com.
 
