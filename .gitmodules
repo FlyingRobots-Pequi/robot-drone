@@ -10,3 +10,6 @@
 [submodule "software/autonomy/crazy-navigation"]
 	path = software/autonomy/crazy-navigation
 	url = git@github.com:Flying-Robots-2024/crazy-navigation.git
+[submodule "software/autonomy/drone_description"]
+	path = software/autonomy/drone_description
+	url = git@github.com:Flying-Robots-2024/drone_description.git
